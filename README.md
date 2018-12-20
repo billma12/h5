@@ -1,2 +1,3 @@
 # h5
-plot dntp
+python plot_dNTP.py
+![plot](https://i.imgur.com/lOTkQmk.png)
